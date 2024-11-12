@@ -44,7 +44,7 @@ const Home = () => {
         </div>
 
         <div className="home-category-card" onClick={()=>navigate('/category/Noodles')}>
-          <img src="https://www.licious.in/blog/wp-content/uploads/2022/12/Shutterstock_2176816723.jpg" alt="" />
+          <img src="https://i.postimg.cc/wBYqGQVw/ndd.jpg" alt="" />
           <h5>Noodles</h5>
         </div>
 
