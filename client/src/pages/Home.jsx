@@ -63,7 +63,7 @@ const Home = () => {
 
       <div className="restaurants-container">
         <div className="restaurants-body">
-            <h3>All danu restaurants</h3>
+            <h3>All Restaurants</h3>
             <div className="restaurants">
 
                 {restaurants.map((restaurant) =>(
