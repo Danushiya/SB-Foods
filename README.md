@@ -2,7 +2,7 @@
 
 SB Foods is an innovative digital platform designed to revolutionize the online food ordering experience. With a user-friendly interface, streamlined ordering process, and rich features, SB Foods makes it easy for food lovers to explore, order, and enjoy their favorite dishes online.
 
-**Demo Video** -https://drive.google.com/file/d/1fem-9O4VOlTK_oQrgjiJpQmvRWyAU8_E/view?usp=sharing
+[Demo Video](https://drive.google.com/file/d/1fem-9O4VOlTK_oQrgjiJpQmvRWyAU8_E/view?usp=sharing)
 
 ## Table of Contents
 
